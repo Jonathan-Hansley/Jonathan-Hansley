@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Active Directoy Home Lab]](https://github.com/Jonathan-Hansley/LABURL)
+- [[Azure-Sentinel-Lab]](https://github.com/Jonathan-Hansley/Azure-Sentinel-Lab)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
